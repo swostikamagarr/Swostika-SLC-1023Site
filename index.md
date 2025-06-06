@@ -2,7 +2,7 @@
 layout: default
 ---
 
-swostika ekche magal- 4398983 | Text can be **bold**, _italic_, or ~~strikethrough~~.
+swostika ekche magar- 4398983 | Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
